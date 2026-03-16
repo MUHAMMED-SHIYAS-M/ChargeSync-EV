@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;800&display=swap');
+
+@theme {
+  --color-primary: #00f2fe;
+  --color-primary-dark: #4facfe;
+  --color-bg: #0f172a;
+  --color-card: rgba(30, 41, 59, 0.7);
+
+  --shadow-glow: 0 0 30px rgba(0, 242, 254, 0.15);
+
+  --font-sans: "Inter", sans-serif;
+  --font-display: "Outfit", sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-bg text-slate-50 font-sans antialiased;
+    overflow-x: hidden;
+  }
+}
+
+@layer components {
+  .glass {
+    @apply bg-slate-900/40 backdrop-blur-xl border border-white/10;
+  }
+
+  .glow {
+    @apply shadow-glow;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-primary to-primary-dark bg-clip-text text-transparent;
+  }
+}
+
+/* Smooth transitions */
+* {
+  @apply transition-colors duration-200;
+}
