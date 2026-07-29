@@ -1,0 +1,2 @@
+Loaded 745 stations in bounding box: min_lat=8.7278631, max_lat=12.8048616, min_lng=74.1780161, max_lng=78.2896699
+Matched 23 stations near route

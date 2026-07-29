@@ -1,0 +1,21 @@
+# Python
+backend/__pycache__/
+backend/.venv311/
+backend/.env
+*.pyc
+
+# Database
+backend/chargesync.db
+
+# Node
+frontend/node_modules/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

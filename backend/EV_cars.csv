@@ -1,0 +1,22 @@
+Brand,Model,Range_Km,PowerTrain,RapidCharge,PlugType
+Tata Motors,Tiago EV,315,Electric,Yes (57 min to 80%),CCS2
+Tata Motors,Punch EV,421,Electric,Yes (56 min to 80%),CCS2
+Tata Motors,Nexon EV,325,Electric,Yes (60 min to 80%),CCS2
+MG Motor,Comet EV,230,Electric,Yes (60 min to 80%),CCS2
+MG Motor,ZS EV,461,Electric,Yes (60 min to 80%),CCS2
+Citroën,ë-C3,320,Electric,Yes (57 min to 80%),CCS2
+Mahindra,XUV400 EV,456,Electric,Yes (50 min to 80%),CCS2
+Hyundai,Kona Electric,452,Electric,Yes (57 min to 80%),CCS2
+BYD,Atto 3,521,Electric,Yes (50 min to 80%),CCS2
+BYD,e6 MPV,520,Electric,Yes (90 min to 100%),CCS2
+Kia,EV6,708,Electric,Yes (18 min to 80%),CCS2
+BMW,iX,425,Electric,Yes (31 min to 80%),CCS2
+BMW,i4,590,Electric,Yes (30 min to 80%),CCS2
+Mercedes-Benz,EQC,471,Electric,Yes (40 min to 80%),CCS2
+Mercedes-Benz,EQS,857,Electric,Yes (31 min to 80%),CCS2
+Mercedes-Benz,EQB,423,Electric,Yes (32 min to 80%),CCS2
+Audi,e-tron 55,484,Electric,Yes (30 min to 80%),CCS2
+Audi,Q8 e-tron,582,Electric,Yes (31 min to 80%),CCS2
+Volvo,XC40 Recharge,418,Electric,Yes (28 min to 80%),CCS2
+Volvo,C40 Recharge,530,Electric,Yes (27 min to 80%),CCS2
+Jaguar,I-Pace,470,Electric,Yes (40 min to 80%),CCS2
