@@ -302,6 +302,11 @@ Evaluation metrics used:
 
 **ChargeSync Development Team**
 
+- **Muhammed Shiyas M**
+- **Hiba Rebin K**
+- **Pavan R Kumar**
+- **Irine Vincent**
+
 AI & Data Science Project
 
 ---
